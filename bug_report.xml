@@ -1,1 +1,7 @@
-
+<xml>
+	<firstname>"Evgeniy"</firstname>
+	<lastname>"Slozhenikin"</lastname>
+	<middlename>"Valentinovich"</middlename>
+	<age>31</age>
+	<numberofpets>0</numberofpets>
+	<salary>400</salary>
